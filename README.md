@@ -15,5 +15,3 @@ AppVibe is a modern, high-performance mobile UI framework designed to enhance **
 - **REST API** – Efficient data handling and connectivity  
 - **Provider/Bloc** – Modern state management  
 
-🚀 Get Started in Minutes  
-1️
